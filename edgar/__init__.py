@@ -6,6 +6,8 @@ from functools import lru_cache
 from functools import partial
 from typing import Optional, Union, List
 
+print("this is from my own github repo!")
+
 from edgar.entities import (Company,
                             CompanyData,
                             CompanyFacts,
